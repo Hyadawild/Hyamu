@@ -2,7 +2,7 @@
     "name": "hyamu",
     "type": "module",
     "version": "1.0.0",
-    "description": "[<img src=\"https://github.com/SamidyFR/monochrome/blob/main/assets/512.png?raw=true\" alt=\"Monochrome Logo\">]",
+    "description": "[<img src=\"https://github.com/Hyadawild/Hyamu/blob/main/assets/512.png?raw=true\" alt=\"Hyamu Logo\">]",
     "main": "sw.js",
     "scripts": {
         "dev": "vite",
@@ -23,9 +23,9 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/SamidyFR/Hyamu/issues"
+        "url": "https://github.com/Hyadawild/Hyamu/issues"
     },
-    "homepage": "https://github.com/SamidyFR/Hyamu#readme",
+    "homepage": "https://github.com/Hyadawild/Hyamu#readme",
     "devDependencies": {
         "eslint": "^9.39.2",
         "eslint-config-prettier": "^10.1.8",

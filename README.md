@@ -30,8 +30,6 @@
 <li>Keyboard shortcuts for power users</li>
 </ul>
 
-
-
 <br>
 
 
