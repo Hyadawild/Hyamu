@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://monochrome.samidy.com">
-    <img src="https://github.com/SamidyFR/monochrome/blob/main/public/assets/512.png?raw=true" alt="Monochrome Logo" width="150px">
+  <a href="">
+    <img src="https://github.com/Hyadawild/Hyamu/blob/main/public/assets/512.png?raw=true" alt="Hyamu Logo" width="150px">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-[<img src="public\assets\demo.png" alt="Hyamu UI" width="800">](https://monochrome.samidy.com/#album/378149557)
+[<img src="public\assets\demo.png" alt="Hyamu UI" width="800">]
 
 ### Features
 
