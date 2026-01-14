@@ -1020,7 +1020,7 @@ function showUpdateNotification(updateCallback) {
     notification.innerHTML = `
         <div>
             <strong>Update Available</strong>
-            <p>A new version of Monochrome is available.</p>
+            <p>A new version of Hyamu is available.</p>
         </div>
         <button class="btn-secondary" id="update-now-btn">Update Now</button>
     `;
@@ -1044,7 +1044,7 @@ function showInstallPrompt(deferredPrompt) {
     notification.className = 'install-prompt';
     notification.innerHTML = `
         <div>
-            <strong>Install Monochrome</strong>
+            <strong>Install Hyamu</strong>
             <p>Install this app for a better experience.</p>
         </div>
         <div style="display: flex; gap: 0.5rem;">
