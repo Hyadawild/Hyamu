@@ -1,6 +1,6 @@
 {
-    "name": "Monochrome Music",
-    "short_name": "Monochrome",
+    "name": "Hyamu Music",
+    "short_name": "Hyamu",
     "description": "A minimalist music streaming application",
     "start_url": "./",
     "display": "standalone",
